@@ -1,4 +1,5 @@
-#!/bin/bash 
-ls -la > ls_cwd_content #!/bin/bash 
+#!/bin/bash
+ls -la > ls_cwd_content
+
 
 
